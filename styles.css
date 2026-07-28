@@ -553,3 +553,11 @@ button { color: inherit; }
   .footer-links { flex-wrap: wrap; }
   .contact-card dl > div { grid-template-columns: 1fr; gap: 2px; }
 }
+
+.donation-button {
+
+  width: 100%;
+
+  margin: 0 0 18px;
+
+}
